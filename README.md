@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**hugooooood/hugooooood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding corner! 🚀 I'm on a continuous learning journey, exploring various technologies, and tackling coding challenges. Eager to absorb knowledge, 
+I'm currently delving into and learning 🐳 Docker, 🏰 Nest.js, 🅰️ Angular, 📘 TypeScript, 🐬 MySQL, and ☕ Java, with a focus on expanding my skills.
 
-Here are some ideas to get you started:
+Join me as I openly share my learning experiences on this coding adventure! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools (Currently Learning)
+- **Languages:**
+  - 🚀 JavaScript, 📘 TypeScript
+  - ☕ Java
+  
+- **IDE:**
+  - 💻 Visual Studio Code
+  
+- **Frameworks:**
+  - 🐳 Docker, 🏰 Nest.js, 🅰️ Angular
+  
+- **Databases:**
+  - 🐬 MySQL
+
+Feel free to check out my projects, where I transparently showcase my learning process. Let's learn together on this coding journey! 🚀
